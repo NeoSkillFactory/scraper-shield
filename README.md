@@ -2,9 +2,9 @@
 
 ![Audit](https://img.shields.io/badge/audit%3A%20PASS-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![OpenClaw](https://img.shields.io/badge/OpenClaw-skill-orange)
 
-> A skill that automatically detects and blocks malicious web scrapers by analyzing request patterns and implementing adaptive rate limiting.
+> Automatically detects and blocks malicious web scrapers by analyzing request patterns and implementing adaptive rate limiting.
 
-scraper-shield is a skill that a skill that automatically detects and blocks malicious web scrapers by analyzing request patterns and implementing adaptive rate limiting.  
+scraper-shield automatically detects and blocks malicious web scrapers by analyzing request patterns and implementing adaptive rate limiting.  
 See the source code for full details and usage instructions.
 
 ## Installation
