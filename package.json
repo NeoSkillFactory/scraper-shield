@@ -1,0 +1,23 @@
+{
+  "name": "scraper-shield",
+  "version": "1.0.0",
+  "description": "Automatically detects and blocks malicious web scrapers using pattern analysis and adaptive rate limiting",
+  "main": "scripts/index.js",
+  "scripts": {
+    "start": "node scripts/index.js --demo",
+    "test": "node scripts/test/detector-test.js && node scripts/test/limiter-test.js && node scripts/test/integration-test.js",
+    "check": "node scripts/index.js --check"
+  },
+  "keywords": [
+    "scraper",
+    "bot-detection",
+    "rate-limiting",
+    "web-security",
+    "middleware",
+    "anti-scraping"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

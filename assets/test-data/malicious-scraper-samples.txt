@@ -1,0 +1,17 @@
+python-requests/2.28.1
+python-requests/2.31.0
+Scrapy/2.7.0 (+https://scrapy.org)
+curl/7.86.0
+wget/1.21.3
+Java/17.0.5
+Go-http-client/2.0
+Apache-HttpClient/4.5.14
+libwww-perl/6.67
+PHP/8.1.0
+GuzzleHttp/7.5.0
+okhttp/4.10.0
+HeadlessChrome/120.0.0.0
+PhantomJS/2.1.1
+Puppeteer/21.0.0
+HTTrack/3.49
+Mechanize/2.9

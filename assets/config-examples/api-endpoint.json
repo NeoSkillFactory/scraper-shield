@@ -1,0 +1,12 @@
+{
+  "endpoints": {
+    "/api/*": { "mode": "strict", "rateLimit": 100 },
+    "/search": { "mode": "medium", "rateLimit": 500 },
+    "/public/*": { "mode": "light", "rateLimit": 1000 }
+  },
+  "allowedBots": ["Googlebot", "Bingbot", "DuckDuckBot"],
+  "allowedIPs": [],
+  "rateLimitWindowMs": 60000,
+  "alertWebhook": null,
+  "logBlocked": true
+}

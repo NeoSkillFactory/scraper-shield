@@ -1,0 +1,12 @@
+{
+  "name": "scraper-shield",
+  "version": "1.0.0",
+  "description": "Automatically detects and blocks malicious web scrapers using pattern analysis and adaptive rate limiting",
+  "emoji": "🛡️",
+  "requires": {
+    "bins": ["node"]
+  },
+  "tags": ["security", "web", "scraping", "rate-limiting", "bot-detection"],
+  "author": "NeoSkillFactory",
+  "license": "MIT"
+}
